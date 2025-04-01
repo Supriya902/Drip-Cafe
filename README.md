@@ -1,1 +1,1 @@
-# Drip-Cafe
+ Drip Cafe's website enhances customer engagement with a responsive design, interactive menu, online ordering, and loyalty integration. Built with HTML, CSS, and JavaScript, it ensures seamless navigation, modern aesthetics, and captivating animations, reflecting the cafe’s warm hospitality and high-quality service.
